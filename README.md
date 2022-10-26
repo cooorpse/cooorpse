@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalho como Analista de Dados com foco na linguagem **Python**.
 - 📊 Trabalho com integrações de sistemas além de criar KPIs e Dashboards. Já atuei com **HTML, CSS, Docker**.
 - 📚 Conhecimento em **PowerBI** e atualmente estudando **SQL** e **Julia Lang**.
-- 📄 Você pode encontrar meu portifólio de PowerBI [aqui](https://sites.google.com/view/elderg)
+- 📄 Você pode encontrar meu portifólio de PowerBI [aqui](https://sites.google.com/view/elderg).
 
 <h3 align="left">Minhas redes:</h3>
 <p align='left'
