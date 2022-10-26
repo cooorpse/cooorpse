@@ -1,10 +1,10 @@
 <h1 align="left">Olá, meu nome é Elder Guilherme</h1>
 <h3 align="left">System Analyst | Python | PowerBI | Data Science | Analytics</h3>
 
-- 🔭 Atualmente trabalho em grande parte do tempo com **Python**.
-- 📊 Também trabalho com **HTML, CSS, Docker** e faço alguns dashboards.
-- 📚 Atualmente aprendendo **PowerBI** e **SQL**, futuramente pretendo aprender **Julia Lang** também.
-- 📄 Você pode encontrar meu portifólio [aqui](https://sites.google.com/view/elderg)
+- 🔭 Atualmente trabalho como Analista de Dados com foco na linguagem **Python**.
+- 📊 Trabalho com integrações de sistemas além de criar KPIs e Dashboards. Já atuei com **HTML, CSS, Docker**.
+- 📚 Conhecimento em **PowerBI** e atualmente estudando **SQL** e **Julia Lang**.
+- 📄 Você pode encontrar meu portifólio de PowerBI [aqui](https://sites.google.com/view/elderg)
 
 <h3 align="left">Minhas redes:</h3>
 <p align='left'
