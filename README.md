@@ -1,12 +1,13 @@
-<h1 align="left">Olá, meu nome é Elder Guilherme</h1>
-<h3 align="left">System Analyst | Python | PowerBI | Data Science | Analytics</h3>
+<h1 align="left">Hello, my name is Elder Guilherme</h1>
+<h3 align="left">Data Analyst | Data Engineer | Python | PowerBI | Analytics</h3>
 
-- 🔭 Atualmente trabalho como Analista de Dados com foco na linguagem **Python**.
-- 📊 Trabalho com integrações de sistemas além de criar KPIs e Dashboards. Já atuei com **HTML, CSS, Docker**.
-- 📚 Conhecimento em **PowerBI** e atualmente estudando **SQL** e **Julia Lang**.
-- 📄 Você pode encontrar meu portifólio de PowerBI [aqui](https://sites.google.com/view/elderg).
+- 🔭 Currently working as a Data Analyst/Data Engineer.
+- 📊 ETL/ELT using **Python** and **SQL**, analytical data modeling, interactive dashboards in **Power BI**.
+- 📊 **Docker** as container system, **Github** for version control.
+- 📚 Focus on AWS cloud infrastructure and certifications.
+- 📄 You can access my Power BI portfolio [here](https://sites.google.com/view/elderg).
 
-<h3 align="left">Minhas redes:</h3>
+<h3 align="left">Network:</h3>
 <p align='left'
    
 <a href="https://linkedin.com/in/elderg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elderg" height="30" width="40" /></a>
